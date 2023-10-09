@@ -1,0 +1,8 @@
+2023-10-08 10:43:53,248 - SetUp method executed...........
+2023-10-08 10:44:02,397 - ****************Chrome Browser successFully Strated !!*************
+2023-10-08 10:44:33,859 - ****************URL successFully Strated !!*************
+2023-10-08 10:44:40,669 - ****************Email And Password Successfullu Added !!*************
+2023-10-08 10:44:57,076 - ****************Clicked Login Buttton !!*************
+2023-10-08 10:44:57,081 - ****************Verifying page title !!*************
+2023-10-08 10:45:03,707 - ****************Successfully Log out !!*************
+2023-10-08 10:45:04,004 - Tear Down method executed...........
